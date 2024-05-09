@@ -1,5 +1,3 @@
-# LGMVIP--DataScience-Task-3
-
 # Image to Pencil Sketch
 
 This project demonstrates how to convert an image into a pencil sketch using OpenCV, a popular computer vision library. This project takes an input image and applies various image processing techniques to generate a pencil sketch effect.
